@@ -1,0 +1,7 @@
+azure-identity==1.10.0
+azure-mgmt-monitor==4.0.0
+azure-mgmt-subscription==3.0.0
+azure-eventhub==5.7.0
+azure-storage-blob==12.13.0
+pandas==1.4.3
+openpyxl==3.0.10
